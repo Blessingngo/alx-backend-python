@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-'''Task 2: Basic annotations - floor
+'''Task 1: Basic annotations - concat
 '''
 
 
-def floor(a: float) -> int:
-
-    return int(a)
+def concat(str1: str, str2: str) -> str:
+  
+    return str1 + str2
